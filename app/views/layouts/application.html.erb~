@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>jQuery Multi Nested Lists Plugin Demo</title>
+<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="/assets/style.css">
+<link href="http://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
+
+</head>
+<body>
+
+<%= yield %>
+</body>
+</html>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="/assets/tree.js"></script>
+
